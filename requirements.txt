@@ -1,0 +1,14 @@
+albumentations
+opencv-python
+pudb
+imageio
+imageio-ffmpeg
+pytorch-lightning==1.4.2
+omegaconf
+test-tube
+streamlit
+einops
+torch-fidelity
+transformers
+torchmetrics==0.7
+conda-pack
